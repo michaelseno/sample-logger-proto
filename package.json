@@ -1,0 +1,19 @@
+{
+  "name": "sample-logger-proto",
+  "version": "1.0.0",
+  "description": "sample prototype common logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelseno/sample-logger-proto.git"
+  },
+  "author": "Michael Seno <michaelseno@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelseno/sample-logger-proto/issues"
+  },
+  "homepage": "https://github.com/michaelseno/sample-logger-proto#readme"
+}
